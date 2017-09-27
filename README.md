@@ -3,7 +3,7 @@
 Author: Mikaela Schaefer
 Contact: kaela_anne@hotmail.com
 
-##Description
+## Description
 The python program hello.py outputs the message which is specified
 in the credentials file that should be housed on the user's home computer.
 
