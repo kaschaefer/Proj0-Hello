@@ -1,6 +1,7 @@
 # Proj0-Hello
 
 Author: Mikaela Schaefer
+
 Contact: kaela_anne@hotmail.com
 
 ## Description
